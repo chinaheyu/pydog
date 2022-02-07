@@ -1,0 +1,9 @@
+[submodule "pydog_hardware"]
+	path = pydog_hardware
+	url = https://github.com/chinaheyu/pydog_hardware.git
+[submodule "pydog_training"]
+	path = pydog_training
+	url = https://github.com/chinaheyu/pydog_training.git
+[submodule "pydog_workspace"]
+	path = pydog_workspace
+	url = https://github.com/chinaheyu/pydog_ws.git
